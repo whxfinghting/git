@@ -6,5 +6,6 @@ public class hello {
     public static void main(String[] args) {
         System.out.println("fff");
         System.out.println("www");
+        System.out.println("hot-fix");
     }
 }
