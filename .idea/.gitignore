@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\BaiduNetdiskDownload\尚硅谷Java学科全套教程（总207.77GB）\2.尚硅谷全套JAVA教程--微服务核心（46.39GB）\尚硅谷Springboot2核心技术（好评如潮）\springboot2-master\git\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
