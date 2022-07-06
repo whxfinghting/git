@@ -7,5 +7,6 @@ public class hello {
         System.out.println("fff");
         System.out.println("www");
         System.out.println("hot-fix");
+        System.out.println("hot-fix2");
     }
 }
